@@ -944,7 +944,7 @@ class MainWindow(QMainWindow):
         self._loader_worker: MppLoaderWorker | None = None
         self._export_worker: ExportWorker | None = None
 
-        self.setWindowTitle("MPP Converter — HDBank Project Tools")
+        self.setWindowTitle("UnboxMPP")
         self.setMinimumSize(960, 680)
         self.resize(1100, 750)
         self.setAcceptDrops(True)
