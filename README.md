@@ -1,7 +1,8 @@
 # UnboxMPP
 
 Công cụ CLI và GUI chạy trên local (được viết bằng Python) để chuyển đổi file Microsoft Project (`.mpp`) sang định dạng Excel (`.xlsx`) hoặc báo cáo PDF (`.pdf`). Công cụ hoạt động độc lập mà không cần cài đặt phần mềm Microsoft Project hay sử dụng license trả phí.
-<img width="2186" height="1546" alt="image" src="https://github.com/user-attachments/assets/c7b34451-bf6f-40ef-9ba8-127e331189c0" />
+<img width="2188" height="1552" alt="image" src="https://github.com/user-attachments/assets/a6653a9a-9c5f-4511-bf78-5afa0cd90e6c" />
+
 
 
 ## 🌟 Tính năng nổi bật
